@@ -112,7 +112,7 @@ const serviceId = import.meta.env.VITE_REACT_APP_EMAIL_SERVICE_ID;
             />
             <Button type="submit">Send</Button>
             {success &&
-              "Your message has been sent. We'll get back to you soon :)"}
+              "Your message has been sent. We'll get back to you soon!"}
           </Form>
         </Left>
         <Right>
